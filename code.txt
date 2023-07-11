@@ -2,3 +2,6 @@
 2. Practice
 3. Build
 4. Deploy
+5. Maintain
+6. Debug
+7. Share
